@@ -1,0 +1,19 @@
+# Binaries
+gui
+demo
+test_scheduler
+bench
+*.exe
+*.o
+*.a
+*.so
+*.dylib
+main_app
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
